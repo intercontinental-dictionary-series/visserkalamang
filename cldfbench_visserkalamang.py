@@ -7,6 +7,10 @@ from idspy import IDSDataset, IDSEntry
 class Dataset(IDSDataset):
     dir = pathlib.Path(__file__).parent
     id = "visserkalamang"
+    form_spec = pylexibank.FormSpec(
+            missing_data=("∅",),
+            replacements=[(" ", "_")]
+            )
 
     def cldf_specs(self):
         return super().cldf_specs()
