@@ -34,7 +34,7 @@ Conceptlists in Concepticon:
 - **Synonymy:** 1.38
 - **Invalid lexemes:** 0
 - **Tokens:** 6,365
-- **Segments:** 25 (0 BIPA errors, 0 CTLS sound class errors, 25 CLTS modified)
+- **Segments:** 25 (0 BIPA errors, 0 CLTS sound class errors, 25 CLTS modified)
 - **Inventory size (avg):** 25.00
 
 # Contributors
@@ -42,7 +42,6 @@ Conceptlists in Concepticon:
 Name               | GitHub user     | Description                          | Role
 ---                | ---             | ---                                  | ---
 Eline Visser |  | author, data entry | Author
-Bernard Comrie |  | consultant | Creator
 Hans-Jörg Bibiko | @Bibiko | patron, code | Maintainer
 
 
