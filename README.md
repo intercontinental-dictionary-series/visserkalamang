@@ -27,8 +27,8 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 1
-- **Concepts:** 855
+- **Varieties:** 1 (linked to 1 different Glottocodes)
+- **Concepts:** 855 (linked to 854 different Concepticon concept sets)
 - **Lexemes:** 1,179
 - **Sources:** 1
 - **Synonymy:** 1.38
@@ -42,7 +42,9 @@ Conceptlists in Concepticon:
 Name               | GitHub user     | Description                          | Role
 ---                | ---             | ---                                  | ---
 Eline Visser |  | author, data entry | Author
-Hans-Jörg Bibiko | @Bibiko | patron, code | Maintainer
+Hans-Jörg Bibiko | @Bibiko | patron, code | Editor
+Johann-Mattis List | @LinguList | profile | Other
+
 
 
 
